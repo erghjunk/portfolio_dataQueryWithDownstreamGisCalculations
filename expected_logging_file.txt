@@ -1,0 +1,14 @@
+variables read in
+layers made
+cursors and data frames made
+working on 110002345454
+catches identified
+FEATUREID IN (19439213, 19439225, 19440337)
+stats calculated
+output written for 110002345454
+working on 110010866688
+catches identified
+FEATUREID IN (19440341, 19440345)
+stats calculated
+output written for 110010866688
+The script took 10.0690000057 seconds.
